@@ -1,0 +1,14 @@
+.Weather-title {
+    margin: 0;
+}
+
+.Weather-img {
+    width: 40px;
+}
+
+.Weather-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

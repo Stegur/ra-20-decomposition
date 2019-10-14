@@ -1,0 +1,44 @@
+.SearchForm-wrapper {
+    padding-left: 140px;
+}
+
+.SearchForm-direction-list {
+    display: flex;
+    padding-left: 25px;
+    margin-bottom: 5px;
+    list-style: none;
+}
+
+.SearchForm-direction-link {
+    text-decoration: none;
+}
+
+.SearchForm {
+    position: relative;
+    padding-left: 25px;
+}
+
+.SearchForm-logo {
+    position: absolute;
+    top: -40px;
+    left: -120px;
+}
+
+.SearchForm-search{
+    width: 600px;
+    height: 30px;
+
+    border: 2px solid orange;
+}
+
+.SearchForm-search__btn {
+    width: 60px;
+    height: 30px;
+
+    background: orange;
+    border: none;
+}
+
+.SearchForm-search__lable {
+    display: block;
+}

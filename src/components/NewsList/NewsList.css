@@ -1,0 +1,17 @@
+.NewsList-container {
+    padding-left: 140px;
+    list-style: none;
+}
+
+.NewsList {
+    padding: 0;
+    list-style: none;
+}
+
+.NewsList-title {
+    padding-left: 25px;
+}
+
+.NewsList-title-link {
+    text-decoration: none;
+}

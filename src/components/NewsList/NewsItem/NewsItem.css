@@ -1,0 +1,12 @@
+.NewsItem-img{
+    width: 15px;
+    margin-right: 10px;
+}
+
+.NewsItem-text{
+    display: inline;
+}
+
+.NewsItem-link{
+    text-decoration: none;
+}

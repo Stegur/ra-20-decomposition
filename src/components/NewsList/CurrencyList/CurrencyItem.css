@@ -1,0 +1,3 @@
+.CurrencyItem:not(:last-child) {
+    margin-right: 15px;
+}
